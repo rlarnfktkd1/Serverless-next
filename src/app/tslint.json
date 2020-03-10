@@ -1,0 +1,15 @@
+{
+  "extends": ["tslint:latest", "tslint-react"],
+  "rules": {
+    "quotemark": [true, "double"],
+    "no-submodule-imports": false,
+    "no-shadowed-variable": false,
+    "interface-name": false,
+    "ordered-imports": false,
+    "variable-name": false,
+    "jsx-no-lambda": false,
+    "object-literal-sort-keys": false,
+    "no-console": false,
+    "jsx-no-multiline-js": false
+  }
+}
